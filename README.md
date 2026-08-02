@@ -31,17 +31,8 @@ customers most likely to churn, understand the key drivers of churn, and recogni
 - Jupyter Notebook
 
 ## Project Workflow
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-SQL Analysis
-   ↓
-Power BI Dashboard
+
+Dataset --> Data Cleaning --> Exploratory Data Analysis --> Feature Engineering --> SQL Analysis --> Power BI Dashboard
 
 ## Data Preparation
 
