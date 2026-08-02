@@ -66,9 +66,7 @@ Business questions were answered using PostgreSQL covering:
 - Customer Retention
 
 ## Dashboard
-The Power BI dashboard provides interactive analysis
+Designed a dashboard that transforms customer data into actionable insights for improving customer retention and business performance.
 
 
-├── README.md
-├── BUSINESS_INSIGHTS.md
-└── LICENSE
+
