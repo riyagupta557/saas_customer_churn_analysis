@@ -36,17 +36,17 @@ Dataset --> Data Cleaning --> Exploratory Data Analysis --> Feature Engineering 
 
 ## Data Preparation
 
-# Data Cleaning
+## Data Cleaning
 - Removed duplicate records
 - Handled missing values
 - Standardized text formatting
 - Corrected inconsistent values
 - Validated data types
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 Performed exploratory analysis to understand customer demographics, revenue, subscription behavior, and churn distribution.
 
-# Feature Engineering
+## Feature Engineering
 Created business-focused features:
 
 - Customer Lifecycle
@@ -68,13 +68,7 @@ Business questions were answered using PostgreSQL covering:
 ## Dashboard
 The Power BI dashboard provides interactive analysis
 
-## Repository Structure
-CloudSync-CRM-Customer-Churn-Analysis
-│
-├── Data
-├── Python 
-├── SQL
-├── Dashboard
+
 ├── README.md
 ├── BUSINESS_INSIGHTS.md
 └── LICENSE
