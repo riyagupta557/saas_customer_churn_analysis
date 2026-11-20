@@ -121,13 +121,6 @@ The analysis combines exploratory data analysis in Python with business-focused 
 
 An interactive Power BI dashboard was developed to present customer churn patterns, subscription behavior, customer engagement, revenue contribution, and retention-related findings.
 
-### 📊 Dashboard Preview
-
-![SaaS Analytics Dashboard](./dasboard/SaaS_customer_churn_dashboard.png)
-
-
-The dashboard helps explore customer segments and identify areas that require attention to improve customer retention.
-
 📊 **Explore dashboard files:** [Power BI Dashboard Folder](dasboard/)
 
 ## 💡 Key Insights
