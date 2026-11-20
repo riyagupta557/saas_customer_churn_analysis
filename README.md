@@ -124,7 +124,7 @@ An interactive Power BI dashboard was developed to present customer churn patter
 ### 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/SaaS_customer_churn_dashboard.png" width="100%" alt="SaaS Analytics Dashboard"/>
+  <img src="dasboard/SaaS_customer_churn_dashboard.png" width="100%" alt="SaaS Analytics Dashboard"/>
 </p>
 
 
