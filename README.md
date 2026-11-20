@@ -58,7 +58,7 @@ The dataset contains customer-level information for a fictional SaaS business, c
 - **Features:** 30+ attributes
 - **Structure:** Customer-level dataset containing demographic, subscription, engagement, revenue, and churn information.
 - **Data Type:** Synthetic data
-- **Explore File:** [Data](data/saas_customer_cleaned_data.csv)
+- **Explore File:** [Data](data/)
 
 ## 🛠️ Tools & Technologies
 
